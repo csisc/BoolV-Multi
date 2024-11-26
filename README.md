@@ -20,3 +20,6 @@ The supported natural languages are the ones that have been featured as the [bes
 - https://github.com/google-research-datasets/boolean-questions
 - Train dataset: 9427 labeled training examples.
 - Dev dataset: 3270 labeled dev examples.
+
+# Funding
+This research work has been done thanks to the [computer resources](https://wikimedia.ch/fr/news/swiss-server-helps-optimise-wikidata-in-the-field-of-medicine/) of [Wikimedia Switzerland](https://wikimedia.ch/).
